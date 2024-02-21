@@ -5,7 +5,7 @@
         "title": "愛を伝えたいだとか",
         "year": 2017,
         "genre": "J-Rock",
-        "format": "CD",
+        "format": "Single",
         "country": "Japan"
     },
     {
@@ -14,7 +14,7 @@
         "title": "ハート",
         "year": 2021,
         "genre": "J-Rock",
-        "format": "CD",
+        "format": "EP",
         "country": "Japan"
     },
     {
@@ -23,16 +23,16 @@
         "title": "君はロックを聴かない",
         "year": 2017,
         "genre": "J-Rock",
-        "format": "CD",
+        "format": "EP",
         "country": "Japan"
     },
     {
-        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/67/34/90/67349087-0609-2be4-4963-fd4682ae8c46/190295600341.jpg/316x316bf.webp",
+        "cover": "https://m.media-amazon.com/images/I/41C+zeSm8ZL._UF1000,1000_QL80_.jpg",
         "artist": "あいみょん",
         "title": "マリーゴールド",
         "year": 2018,
         "genre": "J-Rock",
-        "format": "CD",
+        "format": "Single",
         "country": "Japan"
     },
     {
@@ -41,18 +41,118 @@
         "title": "ハルノヒ",
         "year": 2019,
         "genre": "J-Rock",
-        "format": "CD",
+        "format": "Single",
         "country": "Japan"
     },
     {
-        "cover": "https://image.yes24.com/momo/TopCate0010/hani/L_1410418.jpg",
+        "cover": "https://m.media-amazon.com/images/I/510G0FQlanL._UF1000,1000_QL80_.jpg",
         "artist": "あいみょん",
         "title": "ハルノヒ[初回限定盤]",
+        "year": 2019,
+        "genre": "J-Rock",
+        "format": "Single",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/8e/b4/bf8eb4f0-3774-f7a5-3fec-c20475b96d66/190295353926.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "空の青さを知る人よ",
         "year": 2019,
         "genre": "J-Rock",
         "format": "CD",
         "country": "Japan"
     },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/0d/05/750d0550-419b-cbf7-eb6a-1f812ffe454b/190295396879.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "真夏の夜の匂いがする",
+        "year": 2019,
+        "genre": "J-Rock",
+        "format": "Single",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/0b/1b/850b1b4c-f529-6828-4b2b-a5a187ec61c6/190295235017.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "裸の心",
+        "year": 2020,
+        "genre": "J-Rock",
+        "format": "Single",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/f9/e6/cbf9e61a-be64-23af-1825-f5492a67e976/190296705816.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "愛を知るまでは/桜が降る夜は",
+        "year": 2021,
+        "genre": "J-Rock",
+        "format": "EP",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/37/b5/5037b5b1-4cad-ca1e-ce8f-ac7518b4802a/5054197153716.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "初恋が泣いている",
+        "year": 2022,
+        "genre": "J-Rock",
+        "format": "EP",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://m.media-amazon.com/images/I/710Z5pDoyJL._UF1000,1000_QL80_.jpg",
+        "artist": "あいみょん",
+        "title": "愛の花 [初回限定盤]",
+        "year": 2023,
+        "genre": "J-Rock",
+        "format": "EP",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/bd/6b/31bd6bc7-bc43-ec04-5fce-2ca2f87c999a/5054197896880.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "あのね",
+        "year": 2023,
+        "genre": "J-Rock",
+        "format": "EP",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://m.media-amazon.com/images/I/51eGdEYromL._UF1000,1000_QL80_.jpg",
+        "artist": "あいみょん",
+        "title": "青春のエキサイトメント",
+        "year": 2017,
+        "genre": "J-Rock",
+        "format": "Album",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/65/50/94655099-7651-8772-6cf7-46a5b9eaf6cb/190295171094.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "おいしいパスタがあると聞いて",
+        "year": 2020,
+        "genre": "J-Rock",
+        "format": "Album",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://m.media-amazon.com/images/I/41lWQ3bHlNL._UF1000,1000_QL80_.jpg",
+        "artist": "あいみょん",
+        "title": "おいしいパスタがあると聞い [初回限定盤]",
+        "year": 2020,
+        "genre": "J-Rock",
+        "format": "Album",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/ed/60/21ed6035-13b7-1347-0341-da967f77f04c/5054197247347.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "瞳へ落ちるよレコード",
+        "year": 2022,
+        "genre": "J-Rock",
+        "format": "Album",
+        "country": "Japan"
+    },
+    
     
     
     
