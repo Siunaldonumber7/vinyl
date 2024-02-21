@@ -16,5 +16,44 @@
         "genre": "J-Rock",
         "format": "CD",
         "country": "Japan"
-    }   
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/16/43/fe/1643fec0-3f43-9bcb-83d4-04639f044a7b/190295759162.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "君はロックを聴かない",
+        "year": 2017,
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/67/34/90/67349087-0609-2be4-4963-fd4682ae8c46/190295600341.jpg/316x316bf.webp",
+        "artist": "あいみょん",
+        "title": "マリーゴールド",
+        "year": 2018,
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/17/ad/c617ad80-bf5c-64f1-0d52-f19cb1c04efd/190295450946.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "ハルノヒ",
+        "year": 2019,
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://image.yes24.com/momo/TopCate0010/hani/L_1410418.jpg",
+        "artist": "あいみょん",
+        "title": "ハルノヒ[初回限定盤]",
+        "year": 2019,
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
+    },
+    
+    
+    
 ]
