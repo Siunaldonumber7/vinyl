@@ -4,15 +4,17 @@
         "artist": "あいみょん",
         "title": "愛を伝えたいだとか",
         "year": 2017,
-        "genre": "Rock",
-        "format": "CD"
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
     },
     {
-        "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/9e/82/79/9e82797b-ff48-eb1a-4e17-59dbf62d72df/603497886081.jpg/592x592bb.webp",
-        "artist": "Yes",
-        "title": "90125",
-        "year": 1983,
-        "genre": "Progressive Rock",
-        "format": "LP"
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a9/d4/e9/a9d4e96c-d6f1-29dd-16be-bedbba39057f/190296415074.jpg/316x316bb.webp",
+        "artist": "あいみょん",
+        "title": "ハート",
+        "year": 2021,
+        "genre": "J-Rock",
+        "format": "CD",
+        "country": "Japan"
     }   
 ]
