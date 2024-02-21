@@ -1,3 +1,3 @@
 running at:
 
-https://records.streamlit.app
+https://albums.streamlit.app
