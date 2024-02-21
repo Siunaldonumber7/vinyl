@@ -1,5 +1,16 @@
 [
     {
+        "cover": "https://m.media-amazon.com/images/I/91+VD5klKSL._AC_SL1500_.jpg",
+        "artist": "アド",
+        "title": "ウタの歌 ONE PIECE FILM RED [初回限定盤]",
+        "year": 2022,
+        "genre": "J-POP",
+        "format": "Album",
+        "country": "Japan"
+    },
+
+    
+    {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/632x632bb.webp",
         "artist": "あいみょん",
         "title": "愛を伝えたいだとか",
@@ -153,20 +164,85 @@
         "country": "Japan"
     },
 
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/a1/42/61a14220-2785-1a31-3405-1983b2f91194/4988031167618_cover.jpg/316x316bb.webp",
+        "artist": "RADWIMPS",
+        "title": "君の名は。",
+        "year": 2016,
+        "genre": "J-ROCK",
+        "format": "Album",
+        "country": "Japan"
+    },
+
     
     {
-        "cover": "https://m.media-amazon.com/images/I/91+VD5klKSL._AC_SL1500_.jpg",
-        "artist": "アド",
-        "title": "ウタの歌 ONE PIECE FILM RED [初回限定盤]",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/fb/e3/9dfbe3e4-3079-943b-d47a-92d28fc171da/22UMGIM51800.rgb.jpg/316x316bb.webp",
+        "artist": "和ぬか",
+        "title": "青二才",
         "year": 2022,
         "genre": "J-POP",
         "format": "Album",
         "country": "Japan"
     },
+
     
-   
-    
-    
-    
-    
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/98/c2/ce/98c2ceb0-6467-c3ba-f5f7-10497dcd0377/Jobc7da7508-9dc1-4020-b66d-ef11aecf75d0-126443015-PreviewImage_preview_image_nonvideo_sdr-Time1638470636452.png/316x316bb.webp",
+        "artist": "夜遊び",
+        "title": "THE BOOK 2",
+        "year": 2021,
+        "genre": "J-POP",
+        "format": "EP",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://m.media-amazon.com/images/I/91UEz-sPF-L._AC_SL1500_.jpg",
+        "artist": "夜遊び",
+        "title": "アイドル",
+        "year": 2023,
+        "genre": "J-POP",
+        "format": "Single",
+        "country": "Japan"
+    },
+
+
+     {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/b0/9d/86b09d63-367a-563a-1e24-d5d62c220ac8/jacket_SRCL09749B00Z_550.jpg/316x316bb.webp",
+        "artist": "米津玄師",
+        "title": "LOSER / ナンバーナイン",
+        "year": 2016,
+        "genre": "J-POP",
+        "format": "Single",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/b0/9d/86b09d63-367a-563a-1e24-d5d62c220ac8/jacket_SRCL09749B00Z_550.jpg/316x316bb.webp",
+        "artist": "米津玄師",
+        "title": "Lemon",
+        "year": 2018,
+        "genre": "J-POP",
+        "format": "Single",
+        "country": "Japan"
+    },
+    {
+        "cover": "https://s3-reissue.s3-ap-northeast-1.amazonaws.com/rr/wp-content/uploads/bad819586d875bfc8bedda69bc4fa2f8.jpg",
+        "artist": "米津玄師",
+        "title": "KICK BACK [チェンソー盤 初回限定盤]",
+        "year": 2022,
+        "genre": "J-POP",
+        "format": "Single",
+        "country": "Japan"
+    },
+
+
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/40/24/d0402416-addd-18e9-dd7f-4f93743e51b4/20UMGIM49946.rgb.jpg/316x316bb.webp",
+        "artist": "ヨルシカ",
+        "title": "盗作",
+        "year": 2020,
+        "genre": "J-ROCK",
+        "format": "Album",
+        "country": "Japan"
+    },
+
 ]
