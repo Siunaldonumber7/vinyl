@@ -1,4 +1,5 @@
 [
+    #アド
     {
         "cover": "https://m.media-amazon.com/images/I/91+VD5klKSL._AC_SL1500_.jpg",
         "artist": "アド",
@@ -8,8 +9,7 @@
         "format": "Album",
         "country": "Japan"
     },
-
-    
+    #あいみょん
     {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/632x632bb.webp",
         "artist": "あいみょん",
@@ -163,7 +163,7 @@
         "format": "Album",
         "country": "Japan"
     },
-
+    #RADWIMPS
     {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/a1/42/61a14220-2785-1a31-3405-1983b2f91194/4988031167618_cover.jpg/316x316bb.webp",
         "artist": "RADWIMPS",
@@ -173,8 +173,7 @@
         "format": "Album",
         "country": "Japan"
     },
-
-    
+    #和ぬか
     {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/fb/e3/9dfbe3e4-3079-943b-d47a-92d28fc171da/22UMGIM51800.rgb.jpg/316x316bb.webp",
         "artist": "和ぬか",
@@ -184,8 +183,7 @@
         "format": "Album",
         "country": "Japan"
     },
-
-    
+    #夜遊び
     {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/98/c2/ce/98c2ceb0-6467-c3ba-f5f7-10497dcd0377/Jobc7da7508-9dc1-4020-b66d-ef11aecf75d0-126443015-PreviewImage_preview_image_nonvideo_sdr-Time1638470636452.png/316x316bb.webp",
         "artist": "夜遊び",
@@ -204,9 +202,8 @@
         "format": "Single",
         "country": "Japan"
     },
-
-
-     {
+    #米津玄師
+    {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/bc/03/aabc0399-bc01-16b5-05cf-199921c04079/jacket_SEXX01946B00Z_550.jpg/316x316bb.webp",
         "artist": "米津玄師",
         "title": "LOSER / ナンバーナイン",
@@ -233,8 +230,7 @@
         "format": "Single",
         "country": "Japan"
     },
-
-
+    #ヨルシカ
     {
         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/40/24/d0402416-addd-18e9-dd7f-4f93743e51b4/20UMGIM49946.rgb.jpg/316x316bb.webp",
         "artist": "ヨルシカ",
@@ -245,4 +241,5 @@
         "country": "Japan"
     },
 
+    
 ]
