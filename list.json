@@ -240,6 +240,70 @@
         "format": "Album",
         "country": "Japan"
     },
+    #TidoKang
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/45/b6/5d45b6c2-1dc9-c144-15f5-73d866bc713a/artwork.jpg/592x592bb.webp",
+        "artist": "Tido Kang",
+        "title": "Rest",
+        "year": 2017,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/73/b1/d173b1ce-4283-b1b1-1d49-f1e821659860/artwork.jpg/592x592bb.webp",
+        "artist": "Tido Kang",
+        "title": "飛花",
+        "year": 2019,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/14/0a/76140afe-f8f3-282a-8a86-bb5c34a6fa80/artwork.jpg/592x592bb.webp",
+        "artist": "Tido Kang",
+        "title": "Star",
+        "year": 2020,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/c2/9c/72c29c7d-9f9d-110b-0d09-770299f44c40/artwork.jpg/592x592bb.webp",
+        "artist": "Tido kang",
+        "title": "My story",
+        "year": 2020,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/8c/0d/c78c0dea-fdf9-87f4-b41e-c9de3f62a0f5/artwork.jpg/592x592bb.webp",
+        "artist": "Tido kang",
+        "title": "Nostalgia",
+        "year": 2021,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/24/76/30247609-bd2f-1a42-4089-214911e23858/artwork.jpg/592x592bb.webp",
+        "artist": "Tido kang",
+        "title": "Friend",
+        "year": 2022,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
+    {
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/4c/78/af4c78de-3f8d-40f6-020b-351847e77da4/artwork.jpg/592x592bb.webp",
+        "artist": "Tido kang",
+        "title": "Romance",
+        "year": 2022,
+        "genre": "New Age",
+        "format": "Album",
+        "country": "Korea"
+    },
 
     
 ]
