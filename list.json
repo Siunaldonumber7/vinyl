@@ -296,7 +296,7 @@
         "country": "Korea"
     },
     {
-        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/4c/78/af4c78de-3f8d-40f6-020b-351847e77da4/artwork.jpg/592x592bb.webp",
+        "cover": "covers/Romance.png",
         "artist": "Tido kang",
         "title": "Romance",
         "year": 2022,
@@ -304,6 +304,5 @@
         "format": "Album",
         "country": "Korea"
     },
-
-    
+   
 ]
