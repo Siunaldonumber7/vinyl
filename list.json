@@ -334,6 +334,95 @@
         "format": "Album",
         "country": "Korea"
         },
+    #Crush
+        {
+        "cover": "covers/with HER.png",
+        "artist": "Crush",
+        "title": "with HER",
+        "year": 2020,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "covers/Young.png",
+        "artist": "Crush",
+        "title": "Young",
+        "year": 2015,
+        "genre": "R&B/Soul",
+        "format": "Single",
+        "country": "Korea"
+        },
+        
+    #Colde(콜드)
+        {
+        "cover": "covers/Love Part 1.png",
+        "artist": "Colde(콜드)",
+        "title": "Love Part 1",
+        "year": 2019,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "covers/이상주의.png",
+        "artist": "Colde(콜드)",
+        "title": "이상주의",
+        "year": 2021,
+        "genre": "K-Pop",
+        "format": "EP",
+        "country": "Korea"
+        },
+    #Rad Museum
+        {
+        "cover": "covers/RAD.png",
+        "artist": "Rad Museum",
+        "title": "RAD",
+        "year": 2022,
+        "genre": "R&B/Soul",
+        "format": "Album",
+        "country": "Korea"
+        },
+    #박재범
+        {
+        "cover": "covers/믿어줄래.png",
+        "artist": "박재범",
+        "title": "믿어줄래",
+        "year": 2010,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+    #테이(Tei)
+        {
+        "cover": "covers/The First Journey.png",
+        "artist": "테이(Tei)",
+        "title": "The First Journey",
+        "year": 2004,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+    #시크릿가든 OST
+        {
+        "cover": "covers/시크릿가든 OST Track 1.png",
+        "artist": "Verious Artists",
+        "title": "시크릿가든 OST Track 1",
+        "year": 2011,
+        "genre": "OST",
+        "format": "OST",
+        "country": "Korea"
+        },
+        {
+        "cover": "covers/시크릿가든 OST Track 2.png",
+        "artist": "Verious Artists",
+        "title": "시크릿가든 OST Track 2",
+        "year": 2011,
+        "genre": "OST",
+        "format": "OST",
+        "country": "Korea"
+        },
 
+    
        
 ]
