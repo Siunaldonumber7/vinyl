@@ -30,7 +30,8 @@ class RecordGroup:
                     record.cover = f"data:image/png;base64,{base64.b64encode(f.read()).decode()}"
             except FileNotFoundError:
                 # if the file is not found, set to default
-                record.cover = ''
+                st.code(record.cover)
+                record.cover = ''                
 
         html = f"""
 <div style="display: inline-block; width: 150px; height: 260; margin: 0px 10px 10px 0px; vertical-align: top;">
