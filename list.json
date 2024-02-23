@@ -304,5 +304,36 @@
             "format": "Album",
             "country": "Korea"
         },
+    #포맨(4MEN)
+        {
+        "cover": "covers/The 3rd Generation.png",
+        "artist": "포맨(4MEN)",
+        "title": "The 3rd Generation",
+        "year": "2010",
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+    #정키(Jung Key)
+        {
+        "cover": "covers/RETRO.png",
+        "artist": "정키(Jung Key)",
+        "title": "RETRO",
+        "year": 2018,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+    #김동률
+        {
+        "cover": "covers/Thanks: The Best Songs 1994-2004.png",
+        "artist": "김동률",
+        "title": "Thanks: The Best Songs 1994-2004",
+        "year": 2007,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+
        
 ]
