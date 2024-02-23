@@ -1,14 +1,14 @@
 [
     #アド
-        {
-            "cover": "covers/ウタの歌 ONE PIECE FILM RED 初回限定盤.png",
-            "artist": "アド",
-            "title": "ウタの歌 ONE PIECE FILM RED [初回限定盤]",
-            "year": 2022,
-            "genre": "J-POP",
-            "format": "Album",
-            "country": "Japan"
-        },
+    {
+        "cover": "covers/ウタの歌 ONE PIECE FILM RED 初回限定盤.png",
+        "artist": "アド",
+        "title": "ウタの歌 ONE PIECE FILM RED [初回限定盤]",
+        "year": 2022,
+        "genre": "J-POP",
+        "format": "Album",
+        "country": "Japan"
+    },
     #あいみょん
         {
             "cover": "covers/愛を伝えたいだとか.png",
