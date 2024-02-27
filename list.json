@@ -565,7 +565,15 @@
         "format": "EP",
         "country": "Korea"
         },
-    
-    
+    #블루버스데이 OST
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/24℃.png",
+        "artist": "Various Artists",
+        "title": "블루버스데이 OST",
+        "year": 2021,
+        "genre": "OST",
+        "format": "OST",
+        "country": "Korea"
+        },
        
 ]
