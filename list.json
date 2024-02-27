@@ -203,7 +203,7 @@
     #DAOKO
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/打上花火 初回限定盤.png",
-        "artist": "back number",
+        "artist": "DAOKO",
         "title": "打上花火 [初回限定盤]",
         "year": 2017,
         "genre":"J-POP",
@@ -213,7 +213,7 @@
     #藤井風
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All.png",
-        "artist": "back number",
+        "artist": "藤井風",
         "title": "Love All Serve All",
         "year": 2022,
         "genre":"J-POP",
@@ -499,7 +499,7 @@
     #시크릿가든 OST
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 1.png",
-        "artist": "Verious Artists",
+        "artist": "Various Artists",
         "title": "시크릿가든 OST Track 1",
         "year": 2011,
         "genre": "OST",
@@ -508,7 +508,7 @@
         },
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 2.png",
-        "artist": "Verious Artists",
+        "artist": "Various Artists",
         "title": "시크릿가든 OST Track 2",
         "year": 2011,
         "genre": "OST",
