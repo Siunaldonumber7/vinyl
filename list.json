@@ -575,5 +575,45 @@
         "format": "OST",
         "country": "Korea"
         },
+    #백아연
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Bittersweet.png",
+        "artist": "백아연",
+        "title": "Bittersweet",
+        "year": 2017,
+        "genre": "Ballad",
+        "format": "EP",
+        "country": "Korea"
+        },
+    #백예린(Yerin Baek)
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Every letter I sent you..png",
+        "artist": "백예린",
+        "title": "Every letter I sent you.",
+        "year": 2019,
+        "genre": "R&B/Soul",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/tellusboutyourself.png",
+        "artist": "백예린",
+        "title": "tellusboutyourself",
+        "year": 2020,
+        "genre": "R&B/Soul",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/선물.png",
+        "artist": "백예린",
+        "title": "선물",
+        "year": 2021,
+        "genre": "Balled",
+        "format": "EP",
+        "country": "Korea"
+        },
+        
+        
        
 ]
