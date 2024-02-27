@@ -46,7 +46,6 @@
             "format": "Single",
             "country": "Japan"
         },
-
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハート.png",
             "artist": "あいみょん",
@@ -191,6 +190,46 @@
             "format":"Album",
             "country":"Japan"
         },
+    #back number
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/クリスマスソング.png",
+        "artist": "back number",
+        "title": "クリスマスソング",
+        "year": 2015,
+        "genre":"J-POP",
+        "format":"Single",
+        "country":"Japan"
+        },
+    #DAOKO
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/打上花火 初回限定盤.png",
+        "artist": "back number",
+        "title": "打上花火 [初回限定盤]",
+        "year": 2017,
+        "genre":"J-POP",
+        "format":"Single",
+        "country":"Japan"
+        },
+    #藤井風
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All.png",
+        "artist": "back number",
+        "title": "Love All Serve All",
+        "year": 2022,
+        "genre":"J-POP",
+        "format":"Album",
+        "country":"Japan"
+        },
+    #時をかける少女
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/時をかける少女.png",
+        "artist": "Various Artists",
+        "title": "時をかける少女",
+        "year": 2007,
+        "genre":"J-POP",
+        "format":"OST",
+        "country":"Japan"
+        },
     #RADWIMPS
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/君の名は。.png",
@@ -230,7 +269,16 @@
             "format": "Single",
             "country": "Japan"
         },
-    #米津玄師
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
+            "artist": "夜遊び",
+            "title": "怪物 / 優しい彗星",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+     #米津玄師
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/LOSER.png",
             "artist": "米津玄師",
@@ -254,6 +302,24 @@
             "artist": "米津玄師",
             "title": "KICK BACK [チェンソー盤 初回限定盤]",
             "year": 2022,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/STRAY SHEEP.png",
+            "artist": "米津玄師",
+            "title": "STRAY SHEEP",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Flamingo,TEENAGE RIOT [TEENAGE RIOT Ver].png",
+            "artist": "米津玄師",
+            "title": "Flamingo / TEENAGE RIOT [TEENAGE RIOT Ver]",
+            "year": 2018,
             "genre": "J-POP",
             "format": "Single",
             "country": "Japan"
@@ -381,7 +447,6 @@
         "format": "Single",
         "country": "Korea"
         },
-        
     #Colde(콜드)
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love Part 1.png",
