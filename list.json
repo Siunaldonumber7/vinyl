@@ -20,6 +20,34 @@
             "country": "Japan"
         },
         {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/生きていたんだよな.png",
+            "artist": "あいみょん",
+            "title": "生きていたんだよな",
+            "year": 2016,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/満月の夜なら.png",
+            "artist": "あいみょん",
+            "title": "満月の夜なら",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/今夜このまま.png",
+            "artist": "あいみょん",
+            "title": "今夜このまま",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+
+        {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハート.png",
             "artist": "あいみょん",
             "title": "ハート",
