@@ -515,7 +515,57 @@
         "format": "OST",
         "country": "Korea"
         },
-
+    #미안하다 사랑한다 OST part 2
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/미안하다 사랑한다 OST - Vol.2 Never Ending Story.png",
+        "artist": "Various Artists",
+        "title": "미안하다 사랑한다 OST - Vol.2:Never Ending Story",
+        "year": 2004,
+        "genre": "OST",
+        "format": "OST",
+        "country": "Korea"
+        },
+    #성시경
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Melodie d' Amour.png",
+        "artist": "성시경",
+        "title": "Melodie d' Amour",
+        "year": 2002,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+    #Chancellor(챈슬러)
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Angel (Feat.태연).png",
+        "artist": "Chancellor",
+        "title": "Angel (Feat.태연)",
+        "year": 2019,
+        "genre": "R&B/Soul",
+        "format": "Single",
+        "country": "Korea"
+        },
+    #DEAN(딘))
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/130 mood TRBL.png",
+        "artist": "DEAN",
+        "title": "130 Mood : TRBL",
+        "year": 2016,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+    #이하이(Lee Hi)
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/24℃.png",
+        "artist": "이하이",
+        "title": "24℃",
+        "year": 2019,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+    
     
        
 ]
