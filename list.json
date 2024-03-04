@@ -613,7 +613,26 @@
         "format": "EP",
         "country": "Korea"
         },
-        
+    #아이유(IU)
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The Winning [Special ver.].png",
+        "artist": "아이유",
+        "title": "The Winning [Special ver.]",
+        "year": 2024,
+        "genre": "R&B/Soul",
+        "format": "EP",
+        "country": "Korea"
+        },
+    #싸이(PSY)
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/싸이6甲 Part 1.png",
+        "artist": "싸이",
+        "title": "싸이6甲 Part 1",
+        "year": 2015,
+        "genre": "Rap/Hip-Hop",
+        "format": "Album",
+        "country": "Korea"
+        },
         
        
 ]
