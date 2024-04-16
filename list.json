@@ -449,6 +449,33 @@
         },
     #Colde(콜드)
         {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Your Dog Loves You.png",
+        "artist": "Colde(콜드)",
+        "title": "Your Dogs Loves You",
+        "year": 2018,
+        "genre": "R&B/Soul",
+        "format": "Single",
+        "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Wave.png",
+            "artist": "Colde(콜드)",
+            "title": "Wave",
+            "year": 2018,
+            "genre": "R&B/Soul",
+            "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시.png",
+            "artist": "Colde(콜드)",
+            "title": "시",
+            "year": 2018,
+            "genre": "R&B/Soul",
+            "format": "Single",
+            "country": "Korea"
+        },
+        {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love Part 1.png",
         "artist": "Colde(콜드)",
         "title": "Love Part 1",
@@ -458,6 +485,15 @@
         "country": "Korea"
         },
         {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/마음대로.png",
+            "artist": "Colde(콜드)",
+            "title": "마음대로",
+            "year": 2019,
+            "genre": "R&B/Soul",
+            "format": "Single",
+            "country": "Korea"
+        },
+        {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/이상주의.png",
         "artist": "Colde(콜드)",
         "title": "이상주의",
@@ -465,6 +501,15 @@
         "genre": "K-Pop",
         "format": "EP",
         "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love Part 2.png",
+            "artist": "Colde(콜드)",
+            "title": "Love Part 2",
+            "year": 2023,
+            "genre": "R&B/Soul",
+            "format": "EP",
+            "country": "Korea"
         },
     #Rad Museum
         {
