@@ -334,6 +334,16 @@
             "format": "Album",
             "country": "Japan"
         },
+    #優里
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ichi.png",
+            "artist": "優里",
+            "title": "壱",
+            "year": 2022,
+            "genre": "Ballad",
+            "format": "Album",
+            "country": "Japan"
+        },
     #Tido Kang
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Rest.png",
@@ -678,6 +688,15 @@
         "format": "Album",
         "country": "Korea"
         },
-        
+    #네이비쿼카
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/iandi.png",
+        "artist": "네이비쿼카",
+        "title": "i and i",
+        "year": 2022,
+        "genre": "Ballad",
+        "format": "Single",
+        "country": "Korea"
+        },
        
 ]
