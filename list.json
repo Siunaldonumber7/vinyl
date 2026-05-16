@@ -199,6 +199,15 @@
             "format":"Album",
             "country":"Japan"
         },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/猫にジェラシー.png",
+            "artist": "あいみょん",
+            "title": "猫にジェラシー",
+            "year": 2024,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
     #back number
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/クリスマスソング.png",
@@ -221,6 +230,15 @@
         },
     #藤井風
         {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/HELP EVER HURT NEVER.png",
+        "artist": "藤井風",
+        "title": "HELP EVER HURT NEVER",
+        "year": 2020,
+        "genre":"J-POP",
+        "format":"Album",
+        "country":"Japan"
+        },
+        {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All.png",
         "artist": "藤井風",
         "title": "Love All Serve All",
@@ -228,6 +246,45 @@
         "genre":"J-POP",
         "format":"Album",
         "country":"Japan"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Prema.png",
+        "artist": "藤井風",
+        "title": "Prema",
+        "year": 2025,
+        "genre":"J-POP",
+        "format":"Album",
+        "country":"Japan"
+        },
+    #Furui Riho
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Green Light.png",
+        "artist": "Furui Riho",
+        "title": "Green Light",
+        "year": 2022,
+        "genre":"J-POP",
+        "format":"Album",
+        "country":"Japan"
+        },
+    #幾田 りら
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Laugh.png",
+            "artist": "幾田 りら",
+            "title": "Laugh",
+            "year": 2025,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+    #Official髭男dism
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Traveler.png",
+            "artist": "Official髭男dism",
+            "title": "Traveler",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
         },
     #時をかける少女
         {
@@ -249,6 +306,16 @@
             "format": "Album",
             "country": "Japan"
         },
+    #Vaundy
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/strobo.png",
+            "artist": "Vaundy",
+            "title": "strobo",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
     #和ぬか
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/青二才.png",
@@ -259,35 +326,17 @@
             "format": "Album",
             "country": "Japan"
         },
-    #夜遊び
+    #優里
         {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/THE BOOK 2.png",
-            "artist": "夜遊び",
-            "title": "THE BOOK 2",
-            "year": 2021,
-            "genre": "J-POP",
-            "format": "EP",
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ichi.png",
+            "artist": "優里",
+            "title": "壱",
+            "year": 2022,
+            "genre": "Ballad",
+            "format": "Album",
             "country": "Japan"
         },
-        {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/アイドル.png",
-            "artist": "夜遊び",
-            "title": "アイドル",
-            "year": 2023,
-            "genre": "J-POP",
-            "format": "Single",
-            "country": "Japan"
-        },
-        {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
-            "artist": "夜遊び",
-            "title": "怪物 / 優しい彗星",
-            "year": 2021,
-            "genre": "J-POP",
-            "format": "Single",
-            "country": "Japan"
-        },
-     #米津玄師
+    #米津玄師
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/LOSER.png",
             "artist": "米津玄師",
@@ -333,6 +382,34 @@
             "format": "Single",
             "country": "Japan"
         },
+    #夜遊び
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/THE BOOK 2.png",
+            "artist": "夜遊び",
+            "title": "THE BOOK 2",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "EP",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/アイドル.png",
+            "artist": "夜遊び",
+            "title": "アイドル",
+            "year": 2023,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
+            "artist": "夜遊び",
+            "title": "怪物 / 優しい彗星",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
     #ヨルシカ
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/盗作.png",
@@ -340,16 +417,6 @@
             "title": "盗作",
             "year": 2020,
             "genre": "ROCK",
-            "format": "Album",
-            "country": "Japan"
-        },
-    #優里
-        {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ichi.png",
-            "artist": "優里",
-            "title": "壱",
-            "year": 2022,
-            "genre": "Ballad",
             "format": "Album",
             "country": "Japan"
         },
