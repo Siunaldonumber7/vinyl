@@ -392,10 +392,10 @@
             "format": "Album",
             "country": "Japan"
         },  
-    //夜遊び
+    //YOASOBI
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
-            "artist": "夜遊び",
+            "artist": "YOASOBI",
             "title": "怪物 / 優しい彗星",
             "year": 2021,
             "genre": "J-POP",
@@ -404,7 +404,7 @@
         },
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/アイドル.png",
-            "artist": "夜遊び",
+            "artist": "YOASOBI",
             "title": "アイドル",
             "year": 2023,
             "genre": "J-POP",
@@ -413,7 +413,7 @@
         },
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/THE BOOK 2.png",
-            "artist": "夜遊び",
+            "artist": "YOASOBI",
             "title": "THE BOOK 2",
             "year": 2021,
             "genre": "J-POP",
@@ -572,5 +572,5 @@
         "genre": "Indie",
         "format": "Single",
         "country": "Korea"
-        },
+        }
 ]
