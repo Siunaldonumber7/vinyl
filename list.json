@@ -1,542 +1,546 @@
 [
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ウタの歌 ONE PIECE FILM RED [初回限定盤].png",
-    "artist": "アド",
-    "title": "ウタの歌 ONE PIECE FILM RED",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/生きていたんだよな.png",
-    "artist": "あいみょん",
-    "title": "生きていたんだよな",
-    "year": 2016,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛を伝えたいだとか.png",
-    "artist": "あいみょん",
-    "title": "愛을伝えたいだとか",
-    "year": 2017,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/君はロックを聴かない.png",
-    "artist": "あいみょん",
-    "title": "君はロックを聴かない",
-    "year": 2017,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/満月の夜なら.png",
-    "artist": "あいみょん",
-    "title": "満月の夜なら",
-    "year": 2018,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  }, 
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/マリーゴールド.png",
-    "artist": "あいみょん",
-    "title": "マリーゴールド",
-    "year": 2018,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/今夜このまま.png",
-    "artist": "あいみょん",
-    "title": "今夜このまま",
-    "year": 2018,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハルノヒ.png",
-    "artist": "あいみょん",
-    "title": "ハルノヒ",
-    "year": 2019,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハルノヒ [初回限定盤].png",
-    "artist": "あいみょん",
-    "title": "ハルノヒ [初回限定盤]",
-    "year": 2019,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/真夏の夜の匂いがする.png",
-    "artist": "あいみょん",
-    "title": "真夏の夜の匂いがする",
-    "year": 2019,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/空の青さを知る人よ.png",
-    "artist": "あいみょん",
-    "title": "空の青さを知る人よ",
-    "year": 2019,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/裸の心.png",
-    "artist": "あいみょん",
-    "title": "裸の心",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛を知るまでは,桜が降る夜は.png",
-    "artist": "あいみょん",
-    "title": "愛を知るまでは/桜が降る夜は",
-    "year": 2021,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハート.png",
-    "artist": "あいみょん",
-    "title": "ハート",
-    "year": 2021,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/初恋が泣いている.png",
-    "artist": "あいみょん",
-    "title": "初恋が泣いている",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛の花 [初回限定盤].png",
-    "artist": "あいみょん",
-    "title": "愛の花",
-    "year": 2023,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/あのね.png",
-    "artist": "あいみょん",
-    "title": "あのね",
-    "year": 2023,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/会いに行くのに.png",
-    "artist": "あいみょん",
-    "title": "会いに行くのに",
-    "year": 2024,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/tamago.png",
-    "artist": "あいみょん",
-    "title": "tamago",
-    "year": 2015,
-    "genre": "J-POP",
-    "format": "EP",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/青春のエキサイトメント.png",
-    "artist": "あいみょん",
-    "title": "青春のエキサイトメント",
-    "year": 2017,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/おいしいパスタがあると聞いて.png",
-    "artist": "あいみょん",
-    "title": "おいしいパスタがあると聞いて",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/おいしいパスタがあると聞いて [初回限定盤].png",
-    "artist": "あいみょん",
-    "title": "おいしいパスタがあると聞いて [初回限定盤]",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/瞳へ落ちるよレコード.png",
-    "artist": "あいみょん",
-    "title": "瞳へ落ちるよレコード",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/猫にジェラシー [初回限定盤].png",
-    "artist": "あいみょん",
-    "title": "猫にジェラシー",
-    "year": 2024,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/クリスマスソング.png",
-    "artist": "back number",
-    "title": "クリスマスソング",
-    "year": 2015,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/打上花火 [初回限定盤].png",
-    "artist": "DAOKO",
-    "title": "打上花火",
-    "year": 2017,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/HELP EVER HURT NEVER.png",
-    "artist": "藤井風",
-    "title": "HELP EVER HURT NEVER",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All [初回盤].png",
-    "artist": "藤井風",
-    "title": "Love All Serve All",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Prema [初回限定盤].png",
-    "artist": "藤井風",
-    "title": "Prema",
-    "year": 2025,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Green Light.png",
-    "artist": "Furui Riho",
-    "title": "Green Light",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Laugh [初回限定盤].png",
-    "artist": "幾田 りら",
-    "title": "Laugh",
-    "year": 2025,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Traveler.png",
-    "artist": "Official髭男dism",
-    "title": "Traveler",
-    "year": 2019,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/時をかける少女.png",
-    "artist": "Various Artists",
-    "title": "時をかける少女",
-    "year": 2007,
-    "genre": "J-POP",
-    "format": "OST",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/君の名は。.png",
-    "artist": "RADWIMPS",
-    "title": "君の名は。",
-    "year": 2016,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/strobo.png",
-    "artist": "Vaundy",
-    "title": "strobo",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/青二才.png",
-    "artist": "和ぬか",
-    "title": "青二才",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ichi.png",
-    "artist": "優里",
-    "title": "壱",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/LOSER.png",
-    "artist": "米津玄師",
-    "title": "LOSER / ナンバーナイン",
-    "year": 2016,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Lemon.png",
-    "artist": "米津玄師",
-    "title": "Lemon",
-    "year": 2018,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Flamingo,TEENAGE RIOT [TEENAGE RIOT Ver].png",
-    "artist": "米津玄師",
-    "title": "Flamingo / TEENAGE RIOT [TEENAGE RIOT Ver]",
-    "year": 2018,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/KICK BACK チェンソー盤 [初回限定盤].png",
-    "artist": "米津玄師",
-    "title": "KICK BACK チェンソー盤",
-    "year": 2022,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/STRAY SHEEP.png",
-    "artist": "米津玄師",
-    "title": "STRAY SHEEP",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },  
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
-    "artist": "YOASOBI",
-    "title": "怪物 / 優しい彗星",
-    "year": 2021,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/アイドル.png",
-    "artist": "YOASOBI",
-    "title": "アイドル",
-    "year": 2023,
-    "genre": "J-POP",
-    "format": "Single",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/THE BOOK 2.png",
-    "artist": "YOASOBI",
-    "title": "THE BOOK 2",
-    "year": 2021,
-    "genre": "J-POP",
-    "format": "EP",
-    "country": "Japan"
-  },  
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/盗作.png",
-    "artist": "ヨルシカ",
-    "title": "盗作",
-    "year": 2020,
-    "genre": "J-POP",
-    "format": "Album",
-    "country": "Japan"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Let Go.png",
-    "artist": "Avril Lavigne",
-    "title": "Let Go",
-    "year": 2002,
-    "genre": "Pop",
-    "format": "Album",
-    "country": "USA"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Overexposed (Deluxe).png",
-    "artist": "Maroon 5",
-    "title": "Overexposed (Deluxe)",
-    "year": 2012,
-    "genre": "Pop",
-    "format": "Album",
-    "country": "USA"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Starboy.png",
-    "artist": "The Weekend",
-    "title": "Starboy",
-    "year": 2016,
-    "genre": "Pop",
-    "format": "Album",
-    "country": "USA"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/달의 연인 보보경심 려 OST.png",
-    "artist": "Various Artists",
-    "title": "달의 연인 - 보보경심 려 OST",
-    "year": 2016,
-    "genre": "OST",
-    "format": "OST",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/미안하다 사랑한다 OST - Vol.2 Never Ending Story.png",
-    "artist": "Various Artists",
-    "title": "미안하다 사랑한다 OST - Vol.2:Never Ending Story",
-    "year": 2004,
-    "genre": "OST",
-    "format": "OST",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/블루버스데이 OST.png",
-    "artist": "Various Artists",
-    "title": "블루버스데이 OST",
-    "year": 2021,
-    "genre": "OST",
-    "format": "OST",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 1.png",
-    "artist": "Various Artists",
-    "title": "시크릿가든 OST Track 1",
-    "year": 2011,
-    "genre": "OST",
-    "format": "OST",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 2.png",
-    "artist": "Various Artists",
-    "title": "시크릿가든 OST Track 2",
-    "year": 2011,
-    "genre": "OST",
-    "format": "OST",
-    "country": "Korea"
-  },    
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The 3rd Generation.png",
-    "artist": "포맨(4MEN)",
-    "title": "The 3rd Generation",
-    "year": 2010,
-    "genre": "Ballad",
-    "format": "Album",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/RETRO.png",
-    "artist": "정키(Jung Key)",
-    "title": "RETRO",
-    "year": 2018,
-    "genre": "Ballad",
-    "format": "Album",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Thanks.png",
-    "artist": "김동률",
-    "title": "Thanks: The Best Songs 1994-2004",
-    "year": 2007,
-    "genre": "Ballad",
-    "format": "Album",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The First Journey.png",
-    "artist": "테이(Tei)",
-    "title": "The First Journey",
-    "year": 2004,
-    "genre": "Ballad",
-    "format": "Album",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Melodie d' Amour.png",
-    "artist": "성시경",
-    "title": "Melodie d' Amour",
-    "year": 2002,
-    "genre": "Ballad",
-    "format": "Album",
-    "country": "Korea"
-  },
-  {
-    "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The Winning [Special ver.].png",
-    "artist": "아이유",
-    "title": "The Winning [Special ver.]",
-    "year": 2024,
-    "genre": "R&B/Soul",
-    "format": "EP",
-    "country": "Korea"
-  }
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ウタの歌 ONE PIECE FILM RED [初回限定盤].png",
+            "artist": "アド",
+            "title": "ウタの歌 ONE PIECE FILM RED",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/生きていたんだよな.png",
+            "artist": "あいみょん",
+            "title": "生きていたんだよな",
+            "year": 2016,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛を伝えたいだとか.png",
+            "artist": "あいみょん",
+            "title": "愛を伝えたいだとか",
+            "year": 2017,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/君はロックを聴かない.png",
+            "artist": "あいみょん",
+            "title": "君はロックを聴かない",
+            "year": 2017,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/満月の夜なら.png",
+            "artist": "あいみょん",
+            "title": "満月の夜なら",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        }, 
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/マリーゴールド.png",
+            "artist": "あいみょん",
+            "title": "マリーゴールド",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/今夜このまま.png",
+            "artist": "あいみょん",
+            "title": "今夜このまま",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハルノヒ.png",
+            "artist": "あいみょん",
+            "title": "ハルノヒ",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハルノヒ [初回限定盤].png",
+            "artist": "あいみょん",
+            "title": "ハルノヒ [初回限定盤]",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/真夏の夜の匂いがする.png",
+            "artist": "あいみょん",
+            "title": "真夏の夜の匂いがする",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/空の青さを知る人よ.png",
+            "artist": "あいみょん",
+            "title": "空の青さを知る人よ",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/裸の心.png",
+            "artist": "あいみょん",
+            "title": "裸の心",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛を知るまでは,桜が降る夜は.png",
+            "artist": "あいみょん",
+            "title": "愛を知るまでは/桜が降る夜は",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ハート.png",
+            "artist": "あいみょん",
+            "title": "ハート",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/初恋が泣いている.png",
+            "artist": "あいみょん",
+            "title": "初恋が泣いている",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/愛の花 [初回限定盤].png",
+            "artist": "あいみょん",
+            "title": "愛の花",
+            "year": 2023,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/あのね.png",
+            "artist": "あいみょん",
+            "title": "あのね",
+            "year": 2023,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/会いに行くのに.png",
+            "artist": "あいみょん",
+            "title": "会いに行くのに",
+            "year": 2024,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/tamago.png",
+            "artist": "あいみょん",
+            "title": "tamago",
+            "year": 2015,
+            "genre": "J-POP",
+            "format": "EP",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/青春のエキサイトメント.png",
+            "artist": "あいみょん",
+            "title": "青春のエキサイトメント",
+            "year": 2017,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/おいしいパスタがあると聞いて.png",
+            "artist": "あいみょん",
+            "title": "おいしいパスタがあると聞いて",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/おいしいパスタがあると聞いて [初回限定盤].png",
+            "artist": "あいみょん",
+            "title": "おいしいパスタがあると聞いて [初回限定盤]",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/瞳へ落ちるよレコード.png",
+            "artist": "あいみょん",
+            "title": "瞳へ落ちるよレコード",
+            "year": 2022,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/猫にジェラシー [初回限定盤].png",
+            "artist": "あいみょん",
+            "title": "猫にジェラシー",
+            "year": 2024,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/クリスマスソング.png",
+            "artist": "back number",
+            "title": "クリスマスソング",
+            "year": 2015,
+            "genre":"J-POP",
+            "format":"Single",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/打上花火 [初回限定盤].png",
+            "artist": "DAOKO",
+            "title": "打上花火",
+            "year": 2017,
+            "genre":"J-POP",
+            "format":"Single",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/HELP EVER HURT NEVER.png",
+            "artist": "藤井風",
+            "title": "HELP EVER HURT NEVER",
+            "year": 2020,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All [初回盤].png",
+            "artist": "藤井風",
+            "title": "Love All Serve All",
+            "year": 2022,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Prema [初回限定盤].png",
+            "artist": "藤井風",
+            "title": "Prema",
+            "year": 2025,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Green Light.png",
+            "artist": "Furui Riho",
+            "title": "Green Light",
+            "year": 2022,
+            "genre":"J-POP",
+            "format":"Album",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Laugh [初回限定盤].png",
+            "artist": "幾田 りら",
+            "title": "Laugh",
+            "year": 2025,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Traveler.png",
+            "artist": "Official髭男dism",
+            "title": "Traveler",
+            "year": 2019,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/時をかける少女.png",
+            "artist": "Various Artists",
+            "title": "時をかける少女",
+            "year": 2007,
+            "genre":"J-POP",
+            "format":"OST",
+            "country":"Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/君の名は。.png",
+            "artist": "RADWIMPS",
+            "title": "君の名は。",
+            "year": 2016,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/strobo.png",
+            "artist": "Vaundy",
+            "title": "strobo",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/青二才.png",
+            "artist": "和ぬか",
+            "title": "青二才",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/ichi.png",
+            "artist": "優里",
+            "title": "壱",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/LOSER.png",
+            "artist": "米津玄師",
+            "title": "LOSER / ナンバーナイン",
+            "year": 2016,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Lemon.png",
+            "artist": "米津玄師",
+            "title": "Lemon",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Flamingo,TEENAGE RIOT [TEENAGE RIOT Ver].png",
+            "artist": "米津玄師",
+            "title": "Flamingo / TEENAGE RIOT [TEENAGE RIOT Ver]",
+            "year": 2018,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/KICK BACK チェンソー盤 [初回限定盤].png",
+            "artist": "米津玄師",
+            "title": "KICK BACK チェンソー盤",
+            "year": 2022,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/STRAY SHEEP.png",
+            "artist": "米津玄師",
+            "title": "STRAY SHEEP",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },  
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/怪物,優しい彗星.png",
+            "artist": "YOASOBI",
+            "title": "怪物 / 優しい彗星",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/アイドル.png",
+            "artist": "YOASOBI",
+            "title": "アイドル",
+            "year": 2023,
+            "genre": "J-POP",
+            "format": "Single",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/THE BOOK 2.png",
+            "artist": "YOASOBI",
+            "title": "THE BOOK 2",
+            "year": 2021,
+            "genre": "J-POP",
+            "format": "EP",
+            "country": "Japan"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/盗作.png",
+            "artist": "ヨルシカ",
+            "title": "盗作",
+            "year": 2020,
+            "genre": "J-POP",
+            "format": "Album",
+            "country": "Japan"
+        },
+
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Let Go.png",
+            "artist": "Avril Lavigne",
+            "title": "Let Go",
+            "year": 2002,
+            "genre": "Pop",
+            "format": "Album",
+            "country": "America"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Overexposed (Deluxe).png",
+            "artist": "Maroon 5",
+            "title": "Overexposed (Deluxe)",
+            "year": 2012,
+            "genre": "Pop",
+            "format": "Album",
+            "country": "America"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Starboy.png",
+            "artist": "The Weekend",
+            "title": "Starboy",
+            "year": 2016,
+            "genre": "Pop",
+            "format": "Album",
+            "country": "America"
+        },
+
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/달의 연인 보보경심 려 OST.png",
+            "artist": "Various Artists",
+            "title": "달의 연인 - 보보경심 려 OST",
+            "year": 2016,
+            "genre": "OST",
+            "format": "OST",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/미안하다 사랑한다 OST - Vol.2 Never Ending Story.png",
+            "artist": "Various Artists",
+            "title": "미안하다 사랑한다 OST - Vol.2:Never Ending Story",
+            "year": 2004,
+            "genre": "OST",
+            "format": "OST",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/블루버스데이 OST.png",
+            "artist": "Various Artists",
+            "title": "블루버스데이 OST",
+            "year": 2021,
+            "genre": "OST",
+            "format": "OST",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 1.png",
+            "artist": "Various Artists",
+            "title": "시크릿가든 OST Track 1",
+            "year": 2011,
+            "genre": "OST",
+            "format": "OST",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/시크릿가든 OST Track 2.png",
+            "artist": "Various Artists",
+            "title": "시크릿가든 OST Track 2",
+            "year": 2011,
+            "genre": "OST",
+            "format": "OST",
+            "country": "Korea"
+        },    
+
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The 3rd Generation.png",
+            "artist": "포맨(4MEN)",
+            "title": "The 3rd Generation",
+            "year": "2010",
+            "genre": "Ballad",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/RETRO.png",
+            "artist": "정키(Jung Key)",
+            "title": "RETRO",
+            "year": 2018,
+            "genre": "Ballad",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Thanks.png",
+            "artist": "김동률",
+            "title": "Thanks: The Best Songs 1994-2004",
+            "year": 2007,
+            "genre": "Ballad",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The First Journey.png",
+        "artist": "테이(Tei)",
+        "title": "The First Journey",
+        "year": 2004,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Melodie d' Amour.png",
+        "artist": "성시경",
+        "title": "Melodie d' Amour",
+        "year": 2002,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+        
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/iandi.png",
+        "artist": "네이비쿼카",
+        "title": "i and i",
+        "year": 2022,
+        "genre": "Indie",
+        "format": "Single",
+        "country": "Korea"
+        }
 ]
