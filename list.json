@@ -487,14 +487,50 @@
             "format": "OST",
             "country": "Korea"
         },    
-
+        
         {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The 3rd Generation.png",
-            "artist": "포맨(4MEN)",
-            "title": "The 3rd Generation",
-            "year": "2010",
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Thanks.png",
+            "artist": "김동률",
+            "title": "Thanks: The Best Songs 1994-2004",
+            "year": 2007,
             "genre": "Ballad",
             "format": "Album",
+            "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Bittersweet.png",
+        "artist": "백아연",
+        "title": "Bittersweet",
+        "year": 2017,
+        "genre": "Ballad",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/선물.png",
+        "artist": "백예린 (Yerin Baek)",
+        "title": "선물",
+        "year": 2021,
+        "genre": "Ballad",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Melodie d' Amour.png",
+        "artist": "성시경",
+        "title": "Melodie d' Amour",
+        "year": 2002,
+        "genre": "Ballad",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/꽃갈피 셋.png",
+            "artist": "아이유 (IU)",
+            "title": "꽃갈피 셋",
+            "year": 2025,
+            "genre": "Ballad",
+            "format": "EP",
             "country": "Korea"
         },
         {
@@ -502,15 +538,6 @@
             "artist": "정키(Jung Key)",
             "title": "RETRO",
             "year": 2018,
-            "genre": "Ballad",
-            "format": "Album",
-            "country": "Korea"
-        },
-        {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Thanks.png",
-            "artist": "김동률",
-            "title": "Thanks: The Best Songs 1994-2004",
-            "year": 2007,
             "genre": "Ballad",
             "format": "Album",
             "country": "Korea"
@@ -525,22 +552,148 @@
         "country": "Korea"
         },
         {
-        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Melodie d' Amour.png",
-        "artist": "성시경",
-        "title": "Melodie d' Amour",
-        "year": 2002,
-        "genre": "Ballad",
-        "format": "Album",
-        "country": "Korea"
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/The 3rd Generation.png",
+            "artist": "포맨(4MEN)",
+            "title": "The 3rd Generation",
+            "year": "2010",
+            "genre": "Ballad",
+            "format": "Album",
+            "country": "Korea"
         },
-
+    
         {
         "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/iandi.png",
-        "artist": "네이비쿼카",
+        "artist": "네이비쿼카 (NavyQuokka)",
         "title": "i and i",
         "year": 2022,
         "genre": "Indie",
         "format": "Single",
         "country": "Korea"
-        }
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/iandi.png",
+        "artist": "The Volunteers (더 발룬티어스)",
+        "title": "The Volunteers",
+        "year": 2021,
+        "genre": "Indie",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Hospital.png",
+        "artist": "리도어 (Redoor)",
+        "title": "Hospital",
+        "year": 2025,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Full Album RED PLANET.png",
+        "artist": "볼빨간사춘기",
+        "title": "Full Album RED PLANET",
+        "year": 2016,
+        "genre": "Indie",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Red Diary Page.1.png",
+        "artist": "볼빨간사춘기",
+        "title": "Red Diary Page.1",
+        "year": 2017,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Red Diary Page.2.png",
+        "artist": "볼빨간사춘기",
+        "title": "Red Diary Page.2",
+        "year": 2018,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/사춘기집Ⅰ 꽃기운.png",
+        "artist": "볼빨간사춘기",
+        "title": "사춘기집Ⅰ 꽃기운",
+        "year": 2019,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Two Five.png",
+        "artist": "볼빨간사춘기",
+        "title": "Two Five",
+        "year": 2019,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/사춘기집Ⅱ 꽃 본 나비.png",
+        "artist": "볼빨간사춘기",
+        "title": "사춘기집Ⅱ 꽃 본 나비",
+        "year": 2020,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Seoul.png",
+        "artist": "볼빨간사춘기",
+        "title": "Seoul",
+        "year": 2022,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/POWER ANDRE 99.png",
+        "artist": "실리카겔",
+        "title": "POWER ANDRE 99",
+        "year": 2023,
+        "genre": "Indie",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/사운드 오브 뮤직 pt.1.png",
+        "artist": "잔나비",
+        "title": "사운드 오브 뮤직 pt.1",
+        "year": 2025,
+        "genre": "Indie",
+        "format": "Album",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/이상비행.png",
+        "artist": "한로로",
+        "title": "이상비행",
+        "year": 2023,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/집.png",
+        "artist": "한로로",
+        "title": "집",
+        "year": 2024,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
+        {
+        "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/자몽살구클럽.png",
+        "artist": "한로로",
+        "title": "자몽살구클럽",
+        "year": 2025,
+        "genre": "Indie",
+        "format": "EP",
+        "country": "Korea"
+        },
 ]
