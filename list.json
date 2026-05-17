@@ -243,9 +243,9 @@
             "country":"Japan"
         },
         {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Love All Serve All [初回盤].png",
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/LOVE ALL SERVE ALL [初回盤].png",
             "artist": "藤井風",
-            "title": "Love All Serve All",
+            "title": "LOVE ALL SERVE ALL",
             "year": 2022,
             "genre":"J-POP",
             "format":"Album",
@@ -560,7 +560,89 @@
             "format": "Album",
             "country": "Korea"
         },
-    
+        
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Her.png",
+            "artist": "DPR LIVE",
+            "title": "Her",
+            "year": 2017,
+            "genre": "Hip-Hop",
+            "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/IITE COOL.png",
+            "artist": "DPR LIVE",
+            "title": "IITE COOL",
+            "year": 2021,
+            "genre": "Hip-Hop",
+            "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/IS ANYBODY OUT THERE.png",
+            "artist": "DPR LIVE",
+            "title": "IS ANYBODY OUT THERE?",
+            "year": 2020,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Giggles.png",
+            "artist": "DPR LIVE",
+            "title": "Giggles",
+            "year": 2024,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/나의 XX을 도와줘.png",
+            "artist": "Ruru (루루)",
+            "title": "나의 XX을 도와줘",
+            "year": 2022,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Remapping The Human Soul.png",
+            "artist": "에픽하이 (EPIK HIGH)",
+            "title": "Remapping The Human Soul",
+            "year": 2007,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/TELEVISION.png",
+            "artist": "지코 (ZICO)",
+            "title": "TELEVISION",
+            "year": 2017,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/돈 벌 시간 2.png",
+            "artist": "창모 (CHANGMO)",
+            "title": "돈 벌 시간 2",
+            "year": 2016,
+            "genre": "EP",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/PEOPLE.png",
+            "artist": "코드 쿤스트",
+            "title": "PEOPLE",
+            "year": 2020,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/iandi.png",
             "artist": "네이비쿼카 (NavyQuokka)",
@@ -586,15 +668,6 @@
             "year": 2025,
             "genre": "Indie",
             "format": "EP",
-            "country": "Korea"
-        },
-        {
-            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Full Album RED PLANET.png",
-            "artist": "볼빨간사춘기",
-            "title": "Full Album RED PLANET",
-            "year": 2016,
-            "genre": "Indie",
-            "format": "Album",
             "country": "Korea"
         },
         {
@@ -649,6 +722,15 @@
             "year": 2022,
             "genre": "Indie",
             "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Full Album RED PLANET.png",
+            "artist": "볼빨간사춘기",
+            "title": "Full Album RED PLANET",
+            "year": 2016,
+            "genre": "Indie",
+            "format": "Album",
             "country": "Korea"
         },
         {
