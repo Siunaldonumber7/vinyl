@@ -814,6 +814,7 @@
             "format": "EP",
             "country": "Korea"
         },
+        
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/130 mood TRBL.png",
             "artist": "DEAN (딘)",
@@ -1139,9 +1140,69 @@
             "genre": "R&B/Soul",
             "format": "Album",
             "country": "Korea"
+        }
+        
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Rest.png",
+            "artist": "Tido Kang",
+            "title": "Rest",
+            "year": 2017,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
         },
-        
-        
-        
-        
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/飛花.png",
+            "artist": "Tido Kang",
+            "title": "飛花",
+            "year": 2019,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Star.png",
+            "artist": "Tido Kang",
+            "title": "Star",
+            "year": 2020,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/My story.png",
+            "artist": "Tido Kang",
+            "title": "My story",
+            "year": 2020,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Nostalgia.png",
+            "artist": "Tido Kang",
+            "title": "Nostalgia",
+            "year": 2021,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Friend.png",
+            "artist": "Tido Kang",
+            "title": "Friend",
+            "year": 2022,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Romance.png",
+            "artist": "Tido Kang",
+            "title": "Romance",
+            "year": 2022,
+            "genre": "New Age",
+            "format": "Album",
+            "country": "Korea"
+        }
 ]
