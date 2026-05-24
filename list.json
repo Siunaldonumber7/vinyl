@@ -616,6 +616,42 @@
             "country": "Korea"
         },
         {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/24 26.png",
+            "artist": "빈지노 (Beenzino)",
+            "title": "24 : 26",
+            "year": 2012,
+            "genre": "Hip-Hop",
+            "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Up All Night.png",
+            "artist": "빈지노 (Beenzino)",
+            "title": "Up All Night",
+            "year": 2014,
+            "genre": "Hip-Hop",
+            "format": "EP",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/12.png",
+            "artist": "빈지노 (Beenzino)",
+            "title": "12",
+            "year": 2016,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/NOWITZKI.png",
+            "artist": "빈지노 (Beenzino)",
+            "title": "NOWITZKI",
+            "year": 2023,
+            "genre": "Hip-Hop",
+            "format": "Album",
+            "country": "Korea"
+        },
+        {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Remapping The Human Soul.png",
             "artist": "에픽하이 (EPIK HIGH)",
             "title": "Remapping The Human Soul",
@@ -1140,7 +1176,7 @@
             "genre": "R&B/Soul",
             "format": "Album",
             "country": "Korea"
-        }
+        },
         
         {
             "cover": "https://raw.githubusercontent.com/Siunaldonumber7/vinyl/main/covers/Rest.png",
